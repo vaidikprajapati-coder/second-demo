@@ -1,2 +1,2 @@
 # second-demo
-this is my fsecond Git Repository
+this is my fsecond Git
