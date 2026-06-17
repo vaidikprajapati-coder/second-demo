@@ -1,2 +1,2 @@
 # second-demo
-this is my fsecond Git
+this is my second Git hub commit
