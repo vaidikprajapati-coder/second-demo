@@ -32,9 +32,7 @@ Currency Convertor/
 ✨index.html 
 <br>
 ✨style.css  
-<br>
 ✨app.js     
-<br>
 ✨codes.js   
 
 🎯 How It Works   
