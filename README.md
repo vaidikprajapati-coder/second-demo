@@ -29,16 +29,16 @@ This project allows users to convert currencies quickly with a clean and user-fr
 
 Currency Convertor/
 
-index.html /n
-style.css  /n
-app.js     /n 
-codes.js   /n
+✨index.html /n
+✨style.css  /n
+✨app.js     /n 
+✨codes.js   /n
 
 🎯 How It Works   
 
-✨Enter the amount you want to convert.
-✨Select the original currency.
-✨Select the target currency.
-✨Click the convert button.
-✨The converted amount will be displayed instantly
+✨Enter the amount you want to convert. /n
+✨Select the original currency. /n
+✨Select the target currency. /n
+✨Click the convert button. /n
+✨The converted amount will be displayed instantly.  /n
 
